@@ -2,8 +2,8 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 0  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Scientist"
+  company = "Google"
+  company_url = "https://research.google/"
+  location = "Seattle"
+  date_start = "2020-07-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "Google"
+  company_url = "https://research.google/"
+  location = "Seattle"
+  date_start = "2019-05-01"
+  date_end = "2019-08-01"
+  description = ""
 
+[[experience]]
+  title = "Software Engineer Intern"
+  company = "Google"
+  company_url = "https://www.google.com/"
+  location = "Beijing"
+  date_start = "2018-05-01"
+  date_end = "2018-08-01"
+  description = ""
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Mozilla China"
+  company_url = "https://www.mozilla.org/en-US/"
+  location = "Beijing"
+  date_start = "2010-07-01"
+  date_end = "2013-10-01"
+  description = ""
 +++
