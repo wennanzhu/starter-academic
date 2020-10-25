@@ -27,6 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+url_pdf: "https://search.proquest.com/openview/d95dce69de94a49760a5ef908b9d7b05/1?pq-origsite=gscholar&cbl=51922&diss=y"
 publishDate: '2020-10-18T20:08:00.738495Z'
 publication_types:
 - '7'

@@ -28,6 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+url_pdf: "https://arxiv.org/pdf/1707.01608.pdf"
 publishDate: '2020-10-18T20:08:01.360965Z'
 publication_types:
 - '2'
