@@ -10,7 +10,7 @@ authors:
 - Wennan Zhu
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2021-02-01'
 lastmod: 2020-10-18T16:07:23-04:00
 featured: false
 draft: false
@@ -30,9 +30,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 url_pdf: "https://arxiv.org/pdf/2008.12235.pdf"
-publishDate: '2020-10-18T20:08:00.525924Z'
+publishDate: '2020-10-18T20:08:01.360965Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*arXiv preprint arXiv:2008.12235*'
+publication: '*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*'
 ---
