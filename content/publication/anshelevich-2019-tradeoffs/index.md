@@ -33,5 +33,5 @@ publishDate: '2020-10-18T20:08:01.360965Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Theory of Computing Systems*'
+publication: '*Theory of Computing Systems. Conference version appeared in SAGT 2017*'
 ---

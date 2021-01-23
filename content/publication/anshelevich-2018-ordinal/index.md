@@ -10,7 +10,7 @@ authors:
 - Wennan Zhu
 tags: []
 categories: []
-date: '2018-01-01'
+date: '2021-01-01'
 lastmod: 2020-10-18T15:36:32-04:00
 featured: false
 draft: false
@@ -32,7 +32,7 @@ projects: []
 url_pdf: "https://arxiv.org/pdf/1805.03103.pdf"
 publishDate: '2020-10-18T20:08:01.199617Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*International Conference on Web and Internet Economics (WINE)*'
+publication: '*ACM Transactions on Economics and Computation (TEAC). Conference version appeared in WINE 2018*'
 ---
